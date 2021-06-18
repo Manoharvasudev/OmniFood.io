@@ -81,7 +81,7 @@ $(document).ready(function(){
     });
 
     $(".js--wp-3").waypoint(function(direction){
-        $(".js--wp-3").addClass("animated animate__fadeIn");
+        $(".js--wp-3").addClass("animated animate__headShake");
     }, {
         offset: "50%"
     });
