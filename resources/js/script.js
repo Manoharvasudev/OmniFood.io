@@ -111,7 +111,7 @@ $(document).ready(function(){
 
 
 
-        //<i class="icon ion-ios-close"></i>
+        
     })
 
 });
